@@ -1,0 +1,8 @@
+composer.lock
+config.php
+debug.log
+error.log
+exception.txt
+php-error.txt
+update.log
+vendor/

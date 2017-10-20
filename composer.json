@@ -1,0 +1,10 @@
+{
+    "require": {
+        "longman/telegram-bot": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "lib/"
+        }
+    }
+}
